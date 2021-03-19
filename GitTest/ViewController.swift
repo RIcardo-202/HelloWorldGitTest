@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.title = "Brass monkey"
     }
     
     @IBAction func button(_ sender: UIButton) {
